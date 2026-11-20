@@ -1,0 +1,1524 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "138",
+      "name": "Mochi Peach Pack 1",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/138/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "139",
+      "name": "Mochi Peach Pack 2",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/139/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "140",
+      "name": "Mochi Peach Pack 3",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/140/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "141",
+      "name": "Mochi Peach Pack 4",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/141/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "142",
+      "name": "Mochi Peach Pack 5",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/142/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "143",
+      "name": "Mochi Peach Pack 6",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/143/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "144",
+      "name": "Mochi Peach Pack 7",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/144/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "145",
+      "name": "Mochi Peach Pack 8",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/145/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "146",
+      "name": "Mochi Peach Pack 9",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/146/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "147",
+      "name": "Mochi Peach Pack 10",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/147/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "148",
+      "name": "Mochi Peach Pack 11",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/148/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "149",
+      "name": "Mochi Peach Pack 12",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/149/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "150",
+      "name": "Mochi Peach Pack 13",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/150/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "151",
+      "name": "Mochi Peach Pack 14",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/151/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "152",
+      "name": "Mochi Peach Pack 15",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/152/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "153",
+      "name": "Mochi Peach Pack 16",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/153/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "154",
+      "name": "Mochi Peach Pack 17",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/154/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "155",
+      "name": "Mochi Peach Pack 18",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/155/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "156",
+      "name": "Mochi Peach Pack 19",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/156/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "157",
+      "name": "Mochi Peach Pack 20",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Mochi Peach",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/157/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    }
+  ]
+}

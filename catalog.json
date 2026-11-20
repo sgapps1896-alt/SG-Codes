@@ -62,6 +62,18 @@
       "name": "Bear",
       "packs": "categories/bear.json",
       "pack_count": 11
+    },
+    {
+      "id": "pentol",
+      "name": "Pentol",
+      "packs": "categories/pentol.json",
+      "pack_count": 7
+    },
+    {
+      "id": "mochi-peach",
+      "name": "Mochi Peach",
+      "packs": "categories/mochi-peach.json",
+      "pack_count": 20
     }
   ]
 }
