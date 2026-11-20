@@ -74,6 +74,18 @@
       "name": "Mochi Peach",
       "packs": "categories/mochi-peach.json",
       "pack_count": 20
+    },
+    {
+      "id": "duck",
+      "name": "Duck",
+      "packs": "categories/duck.json",
+      "pack_count": 7
+    },
+    {
+      "id": "sugar-brownie",
+      "name": "Sugar & Brownie",
+      "packs": "categories/sugar-brownie.json",
+      "pack_count": 5
     }
   ]
 }
