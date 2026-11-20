@@ -146,6 +146,18 @@
       "name": "Little Girl",
       "packs": "categories/little-girl.json",
       "pack_count": 12
+    },
+    {
+      "id": "ganesha",
+      "name": "Ganesha",
+      "packs": "categories/ganesha.json",
+      "pack_count": 8
+    },
+    {
+      "id": "cwc",
+      "name": "CWC",
+      "packs": "categories/cwc.json",
+      "pack_count": 5
     }
   ]
 }
