@@ -98,6 +98,12 @@
       "name": "Alphabets",
       "packs": "categories/alphabets.json",
       "pack_count": 19
+    },
+    {
+      "id": "good-morning",
+      "name": "Good Morning",
+      "packs": "categories/good-morning.json",
+      "pack_count": 14
     }
   ]
 }
