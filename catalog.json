@@ -110,6 +110,12 @@
       "name": "Good Night",
       "packs": "categories/good-night.json",
       "pack_count": 5
+    },
+    {
+      "id": "elephant",
+      "name": "Elephant",
+      "packs": "categories/elephant.json",
+      "pack_count": 3
     }
   ]
 }
