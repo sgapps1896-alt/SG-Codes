@@ -158,6 +158,18 @@
       "name": "CWC",
       "packs": "categories/cwc.json",
       "pack_count": 5
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "packs": "categories/flowers.json",
+      "pack_count": 12
+    },
+    {
+      "id": "bunny",
+      "name": "Bunny",
+      "packs": "categories/bunny.json",
+      "pack_count": 7
     }
   ]
 }
