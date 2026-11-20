@@ -1,0 +1,802 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "46",
+      "name": "Penguin Pack 1",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Penguin",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker13.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker14.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/46/sticker15.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "47",
+      "name": "Penguin Pack 2",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Penguin",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker13.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker14.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker15.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker16.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker17.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker18.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker19.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker20.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker21.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker22.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker23.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker24.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker25.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker26.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/47/sticker27.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "48",
+      "name": "Penguin Pack 3",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Penguin",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/48/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "49",
+      "name": "Penguin Pack 4",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Penguin",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker13.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker14.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker15.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker16.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker17.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker18.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker19.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker20.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker21.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker22.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker23.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker24.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/49/sticker25.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "50",
+      "name": "Penguin Pack 5",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Penguin",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker13.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker14.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker15.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker16.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker17.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker18.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker19.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker20.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker21.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/50/sticker22.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "51",
+      "name": "Penguin Pack 6",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Penguin",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker13.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker14.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker15.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker16.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker17.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker18.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/51/sticker19.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    }
+  ]
+}

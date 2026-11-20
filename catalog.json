@@ -20,6 +20,24 @@
       "name": "Tonton",
       "packs": "categories/tonton.json",
       "pack_count": 10
+    },
+    {
+      "id": "penguin",
+      "name": "Penguin",
+      "packs": "categories/penguin.json",
+      "pack_count": 6
+    },
+    {
+      "id": "bull-dog",
+      "name": "Bull Dog",
+      "packs": "categories/bull-dog.json",
+      "pack_count": 6
+    },
+    {
+      "id": "cute-girl",
+      "name": "Cute Girl",
+      "packs": "categories/cute-girl.json",
+      "pack_count": 5
     }
   ]
 }

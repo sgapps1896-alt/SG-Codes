@@ -1,0 +1,444 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "58",
+      "name": "Cute Girl Pack 1",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Cute Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/58/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "59",
+      "name": "Cute Girl Pack 2",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Cute Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/59/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "60",
+      "name": "Cute Girl Pack 3",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Cute Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/60/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "61",
+      "name": "Cute Girl Pack 4",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Cute Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/61/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "62",
+      "name": "Cute Girl Pack 5",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Cute Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/62/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    }
+  ]
+}
