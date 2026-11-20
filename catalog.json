@@ -92,6 +92,12 @@
       "name": "Hamster",
       "packs": "categories/hamster.json",
       "pack_count": 19
+    },
+    {
+      "id": "alphabets",
+      "name": "Alphabets",
+      "packs": "categories/alphabets.json",
+      "pack_count": 19
     }
   ]
 }
