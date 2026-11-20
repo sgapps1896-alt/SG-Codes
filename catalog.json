@@ -86,6 +86,12 @@
       "name": "Sugar & Brownie",
       "packs": "categories/sugar-brownie.json",
       "pack_count": 5
+    },
+    {
+      "id": "hamster",
+      "name": "Hamster",
+      "packs": "categories/hamster.json",
+      "pack_count": 13
     }
   ]
 }
