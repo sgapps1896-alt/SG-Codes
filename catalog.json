@@ -4,12 +4,6 @@
   "ios_app_store_link": "",
   "categories": [
     {
-      "id": "bts",
-      "name": "BTS",
-      "packs": "categories/bts.json",
-      "pack_count": 2
-    },
-    {
       "id": "christmas",
       "name": "Christmas",
       "packs": "categories/christmas.json",
@@ -20,6 +14,18 @@
       "name": "Tonton",
       "packs": "categories/tonton.json",
       "pack_count": 10
+    },
+    {
+      "id": "pentol",
+      "name": "Pentol",
+      "packs": "categories/pentol.json",
+      "pack_count": 7
+    },
+    {
+      "id": "bts",
+      "name": "BTS",
+      "packs": "categories/bts.json",
+      "pack_count": 2
     },
     {
       "id": "penguin",
@@ -58,28 +64,28 @@
       "pack_count": 37
     },
     {
-      "id": "bear",
-      "name": "Bear",
-      "packs": "categories/bear.json",
-      "pack_count": 11
-    },
-    {
-      "id": "pentol",
-      "name": "Pentol",
-      "packs": "categories/pentol.json",
-      "pack_count": 7
-    },
-    {
       "id": "mochi-peach",
       "name": "Mochi Peach",
       "packs": "categories/mochi-peach.json",
       "pack_count": 20
     },
     {
+      "id": "bear",
+      "name": "Bear",
+      "packs": "categories/bear.json",
+      "pack_count": 11
+    },
+    {
       "id": "duck",
       "name": "Duck",
       "packs": "categories/duck.json",
       "pack_count": 7
+    },
+    {
+      "id": "good-morning",
+      "name": "Good Morning",
+      "packs": "categories/good-morning.json",
+      "pack_count": 14
     },
     {
       "id": "sugar-brownie",
@@ -98,12 +104,6 @@
       "name": "Alphabets",
       "packs": "categories/alphabets.json",
       "pack_count": 19
-    },
-    {
-      "id": "good-morning",
-      "name": "Good Morning",
-      "packs": "categories/good-morning.json",
-      "pack_count": 14
     },
     {
       "id": "good-night",
