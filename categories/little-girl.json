@@ -1,0 +1,892 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "286",
+      "name": "Little Girl Pack 1",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/286/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "287",
+      "name": "Little Girl Pack 2",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/287/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "288",
+      "name": "Little Girl Pack 3",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/288/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "289",
+      "name": "Little Girl Pack 4",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/289/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "290",
+      "name": "Little Girl Pack 5",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/290/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "291",
+      "name": "Little Girl Pack 6",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/291/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "292",
+      "name": "Little Girl Pack 7",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/292/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "293",
+      "name": "Little Girl Pack 8",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/293/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "294",
+      "name": "Little Girl Pack 9",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/294/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/294/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/294/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/294/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/294/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/294/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/294/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "295",
+      "name": "Little Girl Pack 10",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/295/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "296",
+      "name": "Little Girl Pack 11",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/296/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "297",
+      "name": "Little Girl Pack 12",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "category": "Little Girl",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/6/297/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -134,6 +134,18 @@
       "name": "Anime",
       "packs": "categories/anime.json",
       "pack_count": 21
+    },
+    {
+      "id": "machiko",
+      "name": "Machiko",
+      "packs": "categories/machiko.json",
+      "pack_count": 6
+    },
+    {
+      "id": "little-girl",
+      "name": "Little Girl",
+      "packs": "categories/little-girl.json",
+      "pack_count": 12
     }
   ]
 }
