@@ -122,6 +122,12 @@
       "name": "Emoji",
       "packs": "categories/emoji.json",
       "pack_count": 19
+    },
+    {
+      "id": "mouse",
+      "name": "Mouse",
+      "packs": "categories/mouse.json",
+      "pack_count": 6
     }
   ]
 }
