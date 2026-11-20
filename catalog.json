@@ -56,6 +56,12 @@
       "name": "Happy Birthday",
       "packs": "categories/happy-birthday.json",
       "pack_count": 37
+    },
+    {
+      "id": "bear",
+      "name": "Bear",
+      "packs": "categories/bear.json",
+      "pack_count": 11
     }
   ]
 }
