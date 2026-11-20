@@ -116,6 +116,12 @@
       "name": "Elephant",
       "packs": "categories/elephant.json",
       "pack_count": 7
+    },
+    {
+      "id": "emoji",
+      "name": "Emoji",
+      "packs": "categories/emoji.json",
+      "pack_count": 19
     }
   ]
 }
