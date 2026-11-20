@@ -170,6 +170,18 @@
       "name": "Bunny",
       "packs": "categories/bunny.json",
       "pack_count": 7
+    },
+    {
+      "id": "panda",
+      "name": "Panda",
+      "packs": "categories/panda.json",
+      "pack_count": 15
+    },
+    {
+      "id": "twin-stars",
+      "name": "Twin Stars",
+      "packs": "categories/twin-stars.json",
+      "pack_count": 13
     }
   ]
 }
