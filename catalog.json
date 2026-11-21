@@ -182,6 +182,18 @@
       "name": "Twin Stars",
       "packs": "categories/twin-stars.json",
       "pack_count": 13
+    },
+    {
+      "id": "tvk-vijay",
+      "name": "TVK Vijay",
+      "packs": "categories/tvk-vijay.json",
+      "pack_count": 5
+    },
+    {
+      "id": "independence-day",
+      "name": "Independence Day",
+      "packs": "categories/independence-day.json",
+      "pack_count": 5
     }
   ]
 }
